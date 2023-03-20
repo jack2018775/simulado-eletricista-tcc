@@ -1,5 +1,5 @@
 Library/
-Obj/
-*.csproj
-*.sln
-*.suo
+# Obj/
+# *.csproj
+# *.sln
+# *.suo
