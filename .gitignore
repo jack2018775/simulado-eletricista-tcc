@@ -1,0 +1,20 @@
+# Ignorar arquivos do sistema
+[Tt]humbs.db
+*.DS_Store
+
+# Ignorar arquivos gerados pelo Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+
+# Ignorar arquivos de cache
+[Bb]uilds/
+Assets/AssetStoreTools*
+
+# Ignorar arquivos de log
+*.log
+*.txt
+
+# Ignorar arquivos do Visual Studio
+.vs/
